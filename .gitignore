@@ -1,0 +1,5 @@
+*.fastq
+*.bam*
+*.sam
+*.fasta*
+*.fna.gz
