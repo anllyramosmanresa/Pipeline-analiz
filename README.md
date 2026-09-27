@@ -26,7 +26,7 @@ Bioinformatics quality control, variant calling, and downstream data science pip
 
 ##  Tech Stack
 
-* **Languages:** Python 3, Bash, R
+* **Languages:** Python 3, Bash
 * **Bioinformatics Tools:** SRA Toolkit, FastQC, fastp, BWA, Samtools, BCFtools
 * **Data Science Libraries:** Pandas, NumPy, Scikit-Learn
 * **Environment & Tools:** Linux / WSL2, Git/GitHub, Conda, AITool
